@@ -1,0 +1,21 @@
+
+// copiar o que está no git para uma pasta no meu pc
+git clone https://....
+
+cd para o repositorio
+
+// aceder ao que está no repositorio do git
+git fetch --all
+
+// juntar o que fiz com o que ja estava la (no meu repositorio local)
+git merge origin/master
+
+// para adicionar ficheiro (editado ou criado):
+git add nomedoficheiro
+
+
+git commit -m "mensagem escrita entre aspas sobre o que foi editado"
+
+// dizer que quero que aquilo a que fiz commit seja a versao oficial:
+git push origin master
+
