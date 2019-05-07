@@ -13,7 +13,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text style={styles.paragraph}>
-          Change code in the editor and watch  jsmilddod it change on your phone! Save to get a shareable url.
+          Change code in the editor and gjvhjhvhjwatch  jsmilddod it change on your phone! Save to get a shareable url.
         </Text>
         <Card>
           <AssetExample />
