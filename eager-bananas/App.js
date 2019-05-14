@@ -3,7 +3,7 @@ import { Text, View, StyleSheet } from 'react-native';
 import { Constants } from 'expo';
 
 // You can import from local files
-import AssetExample from './components/AssetExample';
+import QRbutton from './components/QRbutton';
 
 // or any pure javascript modules available in npm
 import { Card } from 'react-native-paper';
@@ -13,10 +13,10 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text style={styles.paragraph}>
-          Lets see if this shit works god damm it!
+          Lets see if this shit works god damm !
         </Text>
         <Card>
-          <AssetExample />
+          <QRbutton />
         </Card>
       </View>
     );
@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     paddingTop: Constants.statusBarHeight,
-    backgroundColor: '#ecf0f1',
+    backgroundColor: '#fa8072',
     padding: 8,
   },
   paragraph: {
