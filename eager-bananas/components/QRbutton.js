@@ -4,7 +4,11 @@ import { Text, View, StyleSheet, Image } from 'react-native';
 export default class QRbutton extends React.Component {
   render() {
     return (
+<<<<<<< HEAD
       <View style={styles.view}>
+=======
+      <View style={styles.container}>
+>>>>>>> origin/master
         <Image style={styles.logo} source={require('../assets/logo.png')} />
       </View>
     );

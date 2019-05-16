@@ -2,7 +2,11 @@
   "expo": {
     "name": "github.com/isabelraposo/qr-monument:eager-bananas",
     "description": "isabelraposo/qr-monument @ May 14, 2019",
+<<<<<<< HEAD
     "slug": "snack-SJAIVMj34",
+=======
+    "slug": "snack-rJFk9t_3E",
+>>>>>>> origin/master
     "privacy": "unlisted",
     "sdkVersion": "32.0.0",
     "version": "1.0.0",
