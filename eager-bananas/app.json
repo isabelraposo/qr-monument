@@ -1,12 +1,8 @@
 {
   "expo": {
-    "name": "github.com/isabelraposo/qr-monument:eager-bananas",
+    "name": "testing-qr-reader",
     "description": "isabelraposo/qr-monument @ May 14, 2019",
-<<<<<<< HEAD
-    "slug": "snack-SJAIVMj34",
-=======
-    "slug": "snack-rJFk9t_3E",
->>>>>>> origin/master
+    "slug": "snack-By41uEo3E",
     "privacy": "unlisted",
     "sdkVersion": "32.0.0",
     "version": "1.0.0",
